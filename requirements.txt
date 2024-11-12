@@ -1,0 +1,5 @@
+Flask
+spleeter
+ffmpeg-python
+librosa==0.8.0
+numpy<1.19.0
